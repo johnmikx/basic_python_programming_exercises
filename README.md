@@ -9,11 +9,23 @@ A collection of Python programming exercises organized into three batches, cover
 
 ## Directory Structure
 *(to be updated)*
+
 ```
 basic_python_programming_exercises/
 ├── additional_operations_and_control_flow/
 ├── basic_arithmetic_and_logic_operations/
-└── data_handling/
+│   ├── calculate_decimal_quotient.py
+│   ├── calculate_exponentiation.py
+│   ├── calculate_product.py
+│   ├── calculate_sum.py
+│   ├── check_equal_numbers.py
+│   ├── count_odd_numbers.py
+│   ├── find_larger_number.py
+│   ├── print_even_numbers_to_hundred.py
+│   ├── print_non_zero_ending_numbers.py
+│   └── sum_ten_numbers.py
+├── data_handling
+└── README.md
 ```
 
 ## Programs Included
