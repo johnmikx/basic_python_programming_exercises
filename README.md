@@ -3,7 +3,7 @@ A collection of Python programming exercises organized into three batches, cover
 ### Course Information
 
 - **Course:** `CMPE 103` Object Oriented Programming
-- **Assignment:** Practice Python Program Batch 2
+- **Assignment:** Basic Python Programming Exercises (Batch 1 to Batch 3)
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
