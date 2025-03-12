@@ -36,7 +36,13 @@ basic_python_programming_exercises/
 │   ├── print_even_numbers_to_hundred.py
 │   ├── print_non_zero_ending_numbers.py
 │   └── sum_ten_numbers.py
-├── data_handling
+├── data_handling/
+│   ├── check_duplicates_continuously.py
+│   ├── display_first_occurence.py
+│   ├── display_unique_numbers.py
+│   ├── find_lowest_number.py
+│   ├── gistfile3-batch3.txt
+│   └── sort_numbers_ascending.py
 └── README.md
 ```
 
