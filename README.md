@@ -1,14 +1,13 @@
-A collection of Python programming exercises organized into three batches, covering basic arithmetic and logic operations, control flow, and data handling.
+A collection of Python programming exercises organized into four batches, covering basic arithmetic and logic operations, control flow, data handling, and data analysis techniques.
 
 ### Course Information
 
 - **Course:** `CMPE 103` Object Oriented Programming
-- **Assignment:** Basic Python Programming Exercises (Batch 1 to Batch 3)
+- **Assignment:** Basic Python Programming Exercises (Batch 1 to Batch 4)
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
 ## Directory Structure
-*(to be updated)*
 
 ```
 basic_python_programming_exercises/
@@ -19,7 +18,7 @@ basic_python_programming_exercises/
 │   ├── check_not_equal_numbers.py
 │   ├── count_even_numbers.py
 │   ├── find_smaller_number.py
-│   ├── gistfile2-batch2.txt
+│   ├── gistfile2_batch2.txt
 │   ├── print_non_zero_five_ending_numbers.py
 │   ├── print_numbers_in_range.py
 │   ├── print_odd_numbers_to_hundred.py
@@ -32,16 +31,23 @@ basic_python_programming_exercises/
 │   ├── check_equal_numbers.py
 │   ├── count_odd_numbers.py
 │   ├── find_larger_number.py
-│   ├── gistfile1-batch1.txt
+│   ├── gistfile1_batch1.txt
 │   ├── print_even_numbers_to_hundred.py
 │   ├── print_non_zero_ending_numbers.py
 │   └── sum_ten_numbers.py
-├── data_handling/
+├── data_analysis_techniques/
+│   ├── calculate_average.py
+│   ├── display_duplicate_numbers.py
+│   ├── find_highest_number.py
+│   ├── find_most_frequent_number.py
+│   ├── gistfile4_batch4.txt
+│   └── sort_numbers_descending.py
+├── data_handling_techniques/
 │   ├── check_duplicates_continuously.py
 │   ├── display_first_occurence.py
 │   ├── display_unique_numbers.py
 │   ├── find_lowest_number.py
-│   ├── gistfile3-batch3.txt
+│   ├── gistfile3_batch3.txt
 │   └── sort_numbers_ascending.py
 └── README.md
 ```
