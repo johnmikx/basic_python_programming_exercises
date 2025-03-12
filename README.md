@@ -13,6 +13,17 @@ A collection of Python programming exercises organized into three batches, cover
 ```
 basic_python_programming_exercises/
 ├── additional_operations_and_control_flow/
+│   ├── calculate_difference.py
+│   ├── calculate_integer_quotient.py
+│   ├── calculate_remainder.py
+│   ├── check_not_equal_numbers.py
+│   ├── count_even_numbers.py
+│   ├── find_smaller_number.py
+│   ├── gistfile2-batch2.txt
+│   ├── print_non_zero_five_ending_numbers.py
+│   ├── print_numbers_in_range.py
+│   ├── print_odd_numbers_to_hundred.py
+│   └── subtract_from_first_number.py
 ├── basic_arithmetic_and_logic_operations/
 │   ├── calculate_decimal_quotient.py
 │   ├── calculate_exponentiation.py
@@ -21,6 +32,7 @@ basic_python_programming_exercises/
 │   ├── check_equal_numbers.py
 │   ├── count_odd_numbers.py
 │   ├── find_larger_number.py
+│   ├── gistfile1-batch1.txt
 │   ├── print_even_numbers_to_hundred.py
 │   ├── print_non_zero_ending_numbers.py
 │   └── sum_ten_numbers.py
