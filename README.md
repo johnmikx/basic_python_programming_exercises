@@ -52,9 +52,6 @@ basic_python_programming_exercises/
 └── README.md
 ```
 
-## Programs Included
-*(to be updated)*
-
 ## About the Author
 
 🥷 **John Mike Asuncion (Mike)**
