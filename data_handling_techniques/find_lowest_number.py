@@ -51,7 +51,6 @@ print("Enter numbers (enter a non-number to stop):")
 # Create an empty list to store entered numbers
 numbers = []
 
-
 # Start an infinite loop to continuously get user input
 while True:
     try:
