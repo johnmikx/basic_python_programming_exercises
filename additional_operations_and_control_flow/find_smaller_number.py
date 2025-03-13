@@ -23,8 +23,9 @@
 
 # - Algorithm (input, process, output):
 #     1. Get two numbers from user
-#     2. Convert to integers (coz it reads as 'string')
-#     3. Print the smaller number.
+#        1.2. Convert to integers (coz it reads as 'string')
+#     2. Use `if-else` to compare numbers
+#     3. Print the smaller number
 
 # ------------------------------------------------------------------
 
@@ -34,9 +35,9 @@
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
-if num1 < num2: # If true, it prints num1 as larger number
+if num1 < num2: # If true, it prints num1 as smaller number
     print(f"{num1} is smaller.")
-else: # If false, it prints num2 as larger number
+else: # If false, it prints num2 as smaller number
     print(f"{num2} is smaller.")
 
 # ------------------------------------------------------------------

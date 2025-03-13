@@ -23,8 +23,9 @@
 
 # - Algorithm (input, process, output):
 #     1. Get two numbers from user
-#     2. Convert to integers (coz it reads as 'string')
-#     3. Print the larger number.
+#        1.2. Convert to integers (coz it reads as 'string')
+#     2. Use `if-else` to compare numbers
+#     3. Print the larger number
 
 # ------------------------------------------------------------------
 
