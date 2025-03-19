@@ -56,7 +56,7 @@ basic_python_programming_exercises/
 
 🥷 **John Mike Asuncion (Mike)**
 
-- Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Machine Learning, and Artificial Intelligence.
+- Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
 ### 📫 Connect With Me
 I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
