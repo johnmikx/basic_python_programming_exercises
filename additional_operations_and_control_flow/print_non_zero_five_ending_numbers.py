@@ -38,8 +38,8 @@
 print("Numbers from 0 to 100 except those ending in zero or five:") # Title
 
 for num in range(0, 100): # 0 to 100 inclusive
-
-    if num % 10 != 0 and num % 10 != 5: # Check if not ending in zero or five
+    
+    if num % 5 != 0: # Check if not ending in zero or five
         print(num, end=" ")
 
 # ------------------------------------------------------------------
