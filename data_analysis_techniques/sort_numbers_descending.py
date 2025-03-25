@@ -73,7 +73,6 @@ if numbers:
     print("Numbers sorted from highest to lowest:")
     for num in numbers:
         print(num, end=" ") # Print numbers on the same line with spaces
-    print() # Move to the next line after printing all numbers
 else:
     # Handle case where no valid numbers were entered
     print("No valid numbers were entered.")
