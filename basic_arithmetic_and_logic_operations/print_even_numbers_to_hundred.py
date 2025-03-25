@@ -23,7 +23,7 @@
 
 # - Algorithm (input, process, output):
 #     1. Use a `for loop` from 0 to 100
-#     2. Check if each number is even using modulo operator
+#     2. Using range function (start, stop, skip)
 #     3. Print the even numbers
 
 # ------------------------------------------------------------------
@@ -32,12 +32,8 @@
 
 print("Even numbers from 0 to 100:") # Title
 
-for num in range(0, 101): # 0 to 100 inclusive
-    # Check if even
-    if num % 2 == 0:
-        print(num, end=" ")
-
-print() # Add a newline at the end
+for num in range(0, 101, 2): # 0 to 100 inclusive
+    print(num, end=" ")
 
 # ------------------------------------------------------------------
 
